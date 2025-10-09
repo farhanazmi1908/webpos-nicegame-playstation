@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <rect width="400" height="120" rx="12" fill="#071023"/>
+  <text x="20" y="70" fill="#00f5ff" font-size="34" font-family="Verdana, Arial">Nice Game</text>
+  <text x="20" y="100" fill="#7c4dff" font-size="18" font-family="Verdana, Arial">Playstation</text>
+</svg>
